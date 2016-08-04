@@ -1,0 +1,56 @@
+_repo: The-Old-Curiosity-Shop_700
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "The Old Curiosity Shop is a novel by Charles Dickens. The plot follows\
+  \ the life of Nell Trent and her grandfather, both residents of The Old Curiosity\
+  \ Shop in London.\nThe Old Curiosity Shop was one of two novels (the other being\
+  \ Barnaby Rudge) which Dickens published along with short stories in his weekly\
+  \ serial Master Humphrey's Clock, which lasted from 1840 to 1841. It was so popular\
+  \ that New York readers stormed the wharf when the ship bearing the final instalment\
+  \ arrived in 1841. The Old Curiosity Shop was printed in book form in 1841.\nQueen\
+  \ Victoria read the novel in 1841, finding it \"very interesting and cleverly written.\"\
+  \n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '700'
+  wikidata: Q2700616
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gamblers -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Grandfathers -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Grandparent and child -- Fiction'
+- !lcsh 'Antique dealers -- Fiction'
+- !lcsh 'Girls -- Fiction'
+- GITenberg
+title: The Old Curiosity Shop
+url: http://www.gutenberg.org/ebooks/700
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Magasin_d%27antiquit%C3%A9s
+- https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%AC%D8%B1_%D8%A7%D9%84%D9%81%D8%B6%D9%88%D9%84_%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85
+- https://zh.wikipedia.org/wiki/%E8%80%81%E5%8F%A4%E7%8E%A9%E5%BA%97
+- https://pt.wikipedia.org/wiki/The_Old_Curiosity_Shop
+- https://fa.wikipedia.org/wiki/%D9%85%D8%BA%D8%A7%D8%B2%D9%87_%D8%B9%D8%AA%DB%8C%D9%82%D9%87%E2%80%8C%D9%81%D8%B1%D9%88%D8%B4%DB%8C
+- https://tr.wikipedia.org/wiki/Antikac%C4%B1_D%C3%BCkkan%C4%B1
+- https://es.wikipedia.org/wiki/La_tienda_de_antig%C3%BCedades
+- https://en.wikisource.org/wiki/The_Old_Curiosity_Shop
+- https://en.wikipedia.org/wiki/The_Old_Curiosity_Shop
+- https://kw.wikipedia.org/wiki/The_Old_Curiosity_Shop
+- https://it.wikipedia.org/wiki/La_bottega_dell%27antiquario
+- https://sv.wikipedia.org/wiki/Den_gamla_antikvitetshandeln
+- https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%9E%D7%9E%D7%9B%D7%A8_%D7%A2%D7%AA%D7%99%D7%A7%D7%95%D7%AA
