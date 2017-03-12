@@ -1,5 +1,8 @@
 _repo: The-Old-Curiosity-Shop_700
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -18,6 +21,8 @@ description: "The Old Curiosity Shop is a novel by Charles Dickens. The plot fol
   \ arrived in 1841. The Old Curiosity Shop was printed in book form in 1841.\nQueen\
   \ Victoria read the novel in 1841, finding it \"very interesting and cleverly written.\"\
   \n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/700#The-Old-Curiosity-Shop
 gutenberg_issued: '1996-10-01'
 gutenberg_type: Text
 identifiers:
