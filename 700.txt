@@ -11,11 +11,15 @@ Title: The Old Curiosity Shop
 Author: Charles Dickens
 
 Release Date: March 7, 2008 [EBook #700]
-[Last updated: October 30, 2012]
+Last updated: May 7, 2015
 
 Language: English
 
 Character set encoding: ASCII
+
+
+Produced by An Anonymous Volunteer and David Widger
+
 
 *** START OF THIS PROJECT GUTENBERG EBOOK THE OLD CURIOSITY SHOP ***
 
@@ -36,12 +40,12 @@ By Charles Dickens
 
 CHAPTER 1
 
-Night is generally my time for walking. In the summer I often leave
-home early in the morning, and roam about fields and lanes all day, or
-even escape for days or weeks together; but, saving in the country, I
-seldom go out until after dark, though, Heaven be thanked, I love its
-light and feel the cheerfulness it sheds upon the earth, as much as any
-creature living.
+Although I am an old man, night is generally my time for walking. In the
+summer I often leave home early in the morning, and roam about fields
+and lanes all day, or even escape for days or weeks together; but,
+saving in the country, I seldom go out until after dark, though, Heaven
+be thanked, I love its light and feel the cheerfulness it sheds upon the
+earth, as much as any creature living.
 
 I have fallen insensibly into this habit, both because it favours my
 infirmity and because it affords me greater opportunity of speculating
@@ -69,7 +73,7 @@ restless dreams, as if he were condemned to lie, dead but conscious, in
 a noisy churchyard, and had no hope of rest for centuries to come.
 
 Then, the crowds for ever passing and repassing on the bridges (on
-those which are free of toil at last), where many stop on fine evenings
+those which are free of toll at last), where many stop on fine evenings
 looking listlessly down upon the water with some vague idea that by and
 by it runs between green banks which grow wider and wider until at last
 it joins the broad vast sea--where some halt to rest from heavy loads
@@ -106,7 +110,7 @@ a pretty little girl, who begged to be directed to a certain street at
 a considerable distance, and indeed in quite another quarter of the
 town.
 
-It is a very long way from here,' said I, 'my child.'
+'It is a very long way from here,' said I, 'my child.'
 
 'I know that, sir,' she replied timidly. 'I am afraid it is a very long
 way, for I came from there to-night.'
@@ -285,7 +289,7 @@ sorrows before they are capable of entering into our enjoyments.'
 'It will never check hers,' said the old man looking steadily at me,
 'the springs are too deep. Besides, the children of the poor know but
 few pleasures. Even the cheap delights of childhood must be bought and
-paid for.
+paid for.'
 
 'But--forgive me for saying this--you are surely not so very
 poor'--said I.
@@ -409,7 +413,7 @@ morning, for there's work to do. Good night! There, bid him good night,
 Nell, and let him be gone!'
 
 'Good night, Kit,' said the child, her eyes lighting up with merriment
-and kindness.'
+and kindness.
 
 'Good night, Miss Nell,' returned the boy.
 
@@ -457,7 +461,7 @@ promising. Do you not think that what I have seen of you and this
 little creature to-night must have an interest not wholly free from
 pain?'
 
-'Sir,' rejoined the old man after a moment's silence.' I have no right
+'Sir,' rejoined the old man after a moment's silence. 'I have no right
 to feel hurt at what you say. It is true that in many respects I am the
 child, and she the grown person--that you have seen already. But waking
 or sleeping, by night or day, in sickness or health, she is the one
@@ -634,7 +638,7 @@ mean to live.'
 'And his mother died!' cried the old man, passionately clasping his
 hands and looking upward; 'and this is Heaven's justice!'
 
-The other stood lunging with his foot upon a chair, and regarded him
+The other stood lounging with his foot upon a chair, and regarded him
 with a contemptuous sneer. He was a young man of one-and-twenty or
 thereabouts; well made, and certainly handsome, though the expression
 of his face was far from prepossessing, having in common with his
@@ -666,7 +670,7 @@ nearby.'
 
 'Strangers are nothing to me, grandfather,' said the young fellow
 catching at the word, 'nor I to them, I hope. The best they can do, is
-to keep an eye to their business and leave me to mind. There's a friend
+to keep an eye to their business and leave me to mine. There's a friend
 of mine waiting outside, and as it seems that I may have to wait some
 time, I'll call him in, with your leave.'
 
@@ -807,15 +811,15 @@ concord. Why not jine hands and forgit it?'
 Gentlemen, how does the case stand, upon the present occasion?  Here is
 a jolly old grandfather--I say it with the utmost respect--and here is
 a wild, young grandson. The jolly old grandfather says to the wild
-young grandson, 'I have brought you up and educated you, Fred; I have
+young grandson, "I have brought you up and educated you, Fred; I have
 put you in the way of getting on in life; you have bolted a little out
 of course, as young fellows often do; and you shall never have another
-chance, nor the ghost of half a one.'  The wild young grandson makes
-answer to this and says, 'You're as rich as rich can be; you have been
+chance, nor the ghost of half a one."  The wild young grandson makes
+answer to this and says, "You're as rich as rich can be; you have been
 at no uncommon expense on my account, you're saving up piles of money
 for my little sister that lives with you in a secret, stealthy,
 hugger-muggering kind of way and with no manner of enjoyment--why can't
-you stand a trifle for your grown-up relation?' The jolly old
+you stand a trifle for your grown-up relation?" The jolly old
 grandfather unto this, retorts, not only that he declines to fork out
 with that cheerful readiness which is always so agreeable and pleasant
 in a gentleman of his time of life, but that he will bow up, and call
@@ -1004,7 +1008,7 @@ his ear, said in a voice which was perfectly audible to all present,
 
 'Is what?' demanded Quilp.
 
-'Is fork, sir, fork,' replied Mr Swiveller slapping his picket. 'You
+'Is fork, sir, fork,' replied Mr Swiveller slapping his pocket. 'You
 are awake, sir?'
 
 The dwarf nodded. Mr Swiveller drew back and nodded likewise, then drew
@@ -1035,7 +1039,7 @@ left her all alone, and she will be anxious and know not a moment's
 peace till I return. I know she's always in that condition when I'm
 away, thought she doesn't dare to say so, unless I lead her on and tell
 her she may speak freely and I won't be angry with her.  Oh!
-well-trained Mrs Quilp.
+well-trained Mrs Quilp.'
 
 The creature appeared quite horrible with his monstrous head and little
 body, as he rubbed his hands slowly round, and round, and round
@@ -1047,11 +1051,11 @@ might have copied and appropriated to himself.
 'Here,' he said, putting his hand into his breast and sidling up to the
 old man as he spoke; 'I brought it myself for fear of accidents, as,
 being in gold, it was something large and heavy for Nell to carry in
-her bag. She need be accustomed to such loads betimes thought,
+her bag. She need be accustomed to such loads betimes though,
 neighbor, for she will carry weight when you are dead.'
 
 'Heaven send she may! I hope so,' said the old man with something like
-a groan.'
+a groan.
 
 'Hope so!' echoed the dwarf, approaching close to his ear; 'neighbour,
 I would I knew in what good investment all these supplies are sunk. But
@@ -1147,7 +1151,7 @@ part of what he had said himself, led me to suppose that he was a
 wealthy man. I could form no comprehension of his character, unless he
 were one of those miserable wretches who, having made gain the sole end
 and object of their lives and having succeeded in amassing great
-riches, are constantly tortured by the dread of poverty, and best by
+riches, are constantly tortured by the dread of poverty, and beset by
 fears of loss and ruin. Many things he had said which I had been at a
 loss to understand, were quite reconcilable with the idea thus
 presented to me, and at length I concluded that beyond all doubt he was
@@ -1189,7 +1193,7 @@ themselves.
 
 CHAPTER 4
 
-Mr and Mrs Quilp resided on Tower Hill; and in her bower on Tower Hill.
+Mr and Mrs Quilp resided on Tower Hill; and in her bower on Tower Hill
 Mrs Quilp was left to pine the absence of her lord, when he quitted her
 on the business which he had already seen to transact.
 
@@ -1323,7 +1327,7 @@ at it.
 it's very easy to talk, but I say again that I know--that I'm
 sure--Quilp has such a way with him when he likes, that the best
 looking woman here couldn't refuse him if I was dead, and she was free,
-and he chose to make love to him. Come!'
+and he chose to make love to her. Come!'
 
 Everybody bridled up at this remark, as much as to say, 'I know you
 mean me. Let him try--that's all.' and yet for some hidden reason they
@@ -1411,7 +1415,7 @@ attention.
 stop to supper, and have a couple of lobsters and something light and
 palatable.'
 
-'I--I--didn't ask them to tea, Quilp,' stammered his wife. It's quite
+'I--I--didn't ask them to tea, Quilp,' stammered his wife. 'It's quite
 an accident.'
 
 'So much the better, Mrs Quilp; these accidental parties are always the
@@ -1450,7 +1454,7 @@ reminded of the fact; 'your wedded wife.'
 
 'So she is, certainly. So she is,' observed the dwarf.
 
-'And she has has a right to do as she likes, I hope, Quilp,' said the
+'And she has a right to do as she likes, I hope, Quilp,' said the
 old lady trembling, partly with anger and partly with a secret fear of
 her impish son-in-law.
 
@@ -1496,7 +1500,7 @@ long time without speaking.
 
 'Yes, Quilp,' she replead meekly.
 
-Instead of pursing the theme he had in his mind, Quilp folded his arms
+Instead of pursuing the theme he had in his mind, Quilp folded his arms
 again, and looked at her more sternly than before, while she averted
 her eyes and kept them on the ground.
 
@@ -1891,7 +1895,7 @@ two to her post and title, or because he was determined from purposes
 of his own to be agreeable and good-humoured at that particular time,
 only laughed and feigned to take no heed of her alarm.
 
-'You shall home with me to Tower Hill and see Mrs Quilp that is,
+'You shall come with me to Tower Hill and see Mrs Quilp that is,
 directly,' said the dwarf. 'She's very fond of you, Nell, though not so
 fond as I am. You shall come home with me.'
 
@@ -1957,7 +1961,7 @@ all.'
 
 'Then what do you fight on my wharf for, you villain?' said Quilp.
 
-'Because he said so,' replied to boy, pointing to Kit, 'not because you
+'Because he said so,' replied the boy, pointing to Kit, 'not because you
 an't.'
 
 'Then why did he say,' bawled Kit, 'that Miss Nelly was ugly, and that
@@ -2075,7 +2079,7 @@ where nothing died or ever grew old--we were very happy once!'
 'Nelly, Nelly!' said the poor woman, 'I can't bear to see one as young
 as you so sorrowful. Pray don't cry.'
 
-'I do so very seldom,' said Nell,' but I have kept this to myself a
+'I do so very seldom,' said Nell, 'but I have kept this to myself a
 long time, and I am not quite well, I think, for the tears come into my
 eyes and I cannot keep them back. I don't mind telling you my grief,
 for I know you will not tell it to any one again.'
@@ -2164,7 +2168,7 @@ departed.
 'You're a keen questioner, an't you, Mrs Quilp?' said the dwarf,
 turning upon her as soon as they were left alone.
 
-'What more could I do?' returned his wife mildly?
+'What more could I do?' returned his wife mildly.
 
 'What more could you do!' sneered Quilp, 'couldn't you have done
 something less? Couldn't you have done what you had to do, without
@@ -2323,7 +2327,7 @@ the case to him, made an impression. It may have done so. It was
 powerful, Fred. 'Here is a jolly old grandfather'--that was strong, I
 thought--very friendly and natural. Did it strike you in that way?'
 
-It didn't strike him,' returned the other, 'so we needn't discuss it.
+'It didn't strike him,' returned the other, 'so we needn't discuss it.
 Now look here. Nell is nearly fourteen.'
 
 'Fine girl of her age, but small,' observed Richard Swiveller
@@ -2353,7 +2357,7 @@ monosyllable:
 manner, of the effect of which upon his companion he was well assured
 by long experience, 'what's to prevent your marrying her?'
 
-'And she 'nearly fourteen'!' cried Dick.
+'And she "nearly fourteen"!' cried Dick.
 
 'I don't mean marrying her now'--returned the brother angrily; 'say in
 two year's time, in three, in four. Does the old man look like a
@@ -2403,7 +2407,7 @@ beautiful young wife.'
 
 'I suppose there's no doubt about his being rich'--said Dick.
 
-'Doubt! Did you hear what he left fall the other day when we were
+'Doubt! Did you hear what he let fall the other day when we were
 there? Doubt! What will you doubt next, Dick?'
 
 It would be tedious to pursue the conversation through all its artful
@@ -2524,8 +2528,8 @@ applied themselves with great keenness and enjoyment.
 carbuncular potato, 'be the worst of our lives! I like the plan of
 sending 'em with the peel on; there's a charm in drawing a potato from
 its native element (if I may so express it) to which the rich and
-powerful are strangers. Ah! 'Man wants but little here below, nor wants
-that little long!' How true that is!--after dinner.'
+powerful are strangers. Ah! "Man wants but little here below, nor wants
+that little long!" How true that is!--after dinner.'
 
 'I hope the eating-house keeper will want but little and that he may
 not want that little long,' returned his companion; but I suspect
@@ -2570,10 +2574,10 @@ over the way.'
 letters it take to soften her is six, and this time we have got as far
 as eight without any effect at all. I'll write another to-morrow
 morning. I mean to blot it a good deal and shake some water over it out
-of the pepper-castor to make it look penitent. 'I'm in such a state of
-mind that I hardly know what I write'--blot--' if you could see me at
-this minute shedding tears for my past misconduct'--pepper-castor--my
-hand trembles when I think'--blot again--if that don't produce the
+of the pepper-castor to make it look penitent. "I'm in such a state of
+mind that I hardly know what I write"--blot--"if you could see me at
+this minute shedding tears for my past misconduct"--pepper-castor--"my
+hand trembles when I think"--blot again--if that don't produce the
 effect, it's all over.'
 
 By this time, Mr Swiveller had finished his entry, and he now replaced
@@ -2724,7 +2728,7 @@ Miss Sophy to observe how the eyes of the said Alick gleamed with love
 and fury; passions, it may be observed, which being too much for his
 eyes rushed into his nose also, and suffused it with a crimson glow.
 
-'You must dance with Miss Chegs,' said Miss Sophy to Dick Swiviller,
+'You must dance with Miss Cheggs,' said Miss Sophy to Dick Swiviller,
 after she had herself danced twice with Mr Cheggs and made great show
 of encouraging his advances. 'She's a nice girl--and her brother's
 quite delightful.'
@@ -2881,7 +2885,7 @@ Swiviller to himself when he had reached home and was hanging over the
 candle with the extinguisher in his hand, 'which is, that I now go
 heart and soul, neck and heels, with Fred in all his scheme about
 little Nelly, and right glad he'll be to find me so strong upon it. He
-shall know all about that to-morrow, and in the mean time, as it's
+shall know all about that to-morrow, and in the meantime, as it's
 rather late, I'll try and get a wink of the balmy.'
 
 'The balmy' came almost as soon as it was courted. In a very few
@@ -3296,8 +3300,9 @@ extraordinary delight.
 
 'Poor Kit!' muttered Quilp.  'I think it was Kit who said I was an
 uglier dwarf than could be seen anywhere for a penny, wasn't it.  Ha ha
-ha!  Poor Kit!'  And with that he went his way, still chuckling as he
-went.
+ha!  Poor Kit!'
+
+And with that he went his way, still chuckling as he went.
 
 
 
@@ -3362,7 +3367,7 @@ The room in which Kit sat himself down, in this condition, was an
 extremely poor and homely place, but with that air of comfort about it,
 nevertheless, which--or the spot must be a wretched one
 indeed--cleanliness and order can always impart in some degree.  Late
-as the Dutch clock' showed it to be, the poor woman was still hard at
+as the Dutch clock showed it to be, the poor woman was still hard at
 work at an ironing-table; a young child lay sleeping in a cradle near
 the fire; and another, a sturdy boy of two or three years old, very
 wide awake, with a very tight night-cap on his head, and a night-gown
@@ -3507,7 +3512,7 @@ have done, but I hope it's nothing very bad.'
 
 'I done!' roared Kit.
 
-'He cries that you're the cause of all his misery,' returned the child
+'He cried that you're the cause of all his misery,' returned the child
 with tearful eyes; 'he screamed and called for you; they say you must
 not come near him or he will die.  You must not return to us any more.
 I came to tell you.  I thought it would be better that I should come
@@ -3778,8 +3783,9 @@ old master was--!'
 I wouldn't have had them do it for the world.'
 
 'Thank'ee, miss,' returned Kit, 'it's comfortable to hear you say that.
-I said I never would believe that it was your doing.' 'That was right!'
-said the child eagerly.
+I said I never would believe that it was your doing.'
+
+'That was right!' said the child eagerly.
 
 'Miss Nell,' cried the boy coming under the window, and speaking in a
 lower tone, 'there are new masters down stairs.  It's a change for you.'
@@ -4198,10 +4204,12 @@ every-day garments, he hastened to do the like, putting on his shoes
 before his stockings, and thrusting his legs into his coat sleeves, and
 making such other small mistakes in his toilet as are not uncommon to
 those who dress in a hurry, and labour under the agitation of having
-been suddenly roused.  While the attorney was thus engaged, the dwarf
-was groping under the table, muttering desperate imprecations on
-himself, and mankind in general, and all inanimate objects to boot,
-which suggested to Mr Brass the question, 'what's the matter?'
+been suddenly roused.
+
+While the attorney was thus engaged, the dwarf was groping under the
+table, muttering desperate imprecations on himself, and mankind in
+general, and all inanimate objects to boot, which suggested to Mr Brass
+the question, 'what's the matter?'
 
 'The key,' said the dwarf, looking viciously about him, 'the
 door-key--that's the matter.  D'ye know anything of it?'
@@ -4632,7 +4640,7 @@ to call somewhere, that I might earn a trifle?'
 He was quite tired out with pacing the streets, to say nothing of
 repeated disappointments, and was sitting down upon a step to rest,
 when there approached towards him a little clattering jingling
-four-wheeled chaise' drawn by a little obstinate-looking rough-coated
+four-wheeled chaise, drawn by a little obstinate-looking rough-coated
 pony, and driven by a little fat placid-faced old gentleman.  Beside
 the little old gentleman sat a little old lady, plump and placid like
 himself, and the pony was coming along at his own pace and doing
@@ -4659,9 +4667,10 @@ Kit thanked him, and joyfully obeyed.  The pony ran off at a sharp
 angle to inspect a lamp-post on the opposite side of the way, and then
 went off at a tangent to another lamp-post on the other side.  Having
 satisfied himself that they were of the same pattern and materials, he
-came to a stop apparently absorbed in meditation.  'Will you go on,
-sir,' said the old gentleman, gravely, 'or are we to wait here for you
-till it's too late for our appointment?'
+came to a stop apparently absorbed in meditation.
+
+'Will you go on, sir,' said the old gentleman, gravely, 'or are we to
+wait here for you till it's too late for our appointment?'
 
 The pony remained immoveable.
 
@@ -5558,9 +5567,10 @@ gracious, Tommy.'
 greedily, as is not uncommon with philosophers and misanthropes;
 'you're too free.'
 
-'Why what harm can it do?' urged the other.  'No harm at all in this
-particular case, perhaps,' replied Mr Codlin; 'but the principle's a
-dangerous one, and you're too free I tell you.'
+'Why what harm can it do?' urged the other.
+
+'No harm at all in this particular case, perhaps,' replied Mr Codlin;
+'but the principle's a dangerous one, and you're too free I tell you.'
 
 'Well, are they to go with us or not?'
 
@@ -5841,9 +5851,13 @@ as enhancing the delights of the present time.  Overpowered by the
 warmth and comfort and the fatigue they had undergone, Nelly and the
 old man had not long taken their seats here, when they fell asleep.
 
-'Who are they?' whispered the landlord.  Short shook his head, and
-wished he knew himself.  'Don't you know?' asked the host, turning to
-Mr Codlin.  'Not I,' he replied.  'They're no good, I suppose.'
+'Who are they?' whispered the landlord.
+
+Short shook his head, and wished he knew himself.
+
+'Don't you know?' asked the host, turning to Mr Codlin.
+
+'Not I,' he replied.  'They're no good, I suppose.'
 
 'They're no harm,' said Short.  'Depend upon that.  I tell you
 what--it's plain that the old man an't in his right mind--'
@@ -6080,7 +6094,7 @@ a wooden leg what a property he'd be!'
 very true.'
 
 'Instead of which,' pursued Mr Vuffin, 'if you was to advertise
-Shakspeare played entirely by wooden legs,' it's my belief you wouldn't
+Shakspeare played entirely by wooden legs, it's my belief you wouldn't
 draw a sixpence.'
 
 'I don't suppose you would,' said Short.  And the landlord said so too.
@@ -6199,16 +6213,17 @@ men, increased by the recollection of their whispering together down
 stairs and their slight confusion when she awoke, nor was she quite
 free from a misgiving that they were not the fittest companions she
 could have stumbled on.  Her uneasiness, however, was nothing, weighed
-against her fatigue; and she soon forgot it in sleep.  Very early next
-morning, Short fulfilled his promise, and knocking softly at her door,
-entreated that she would get up directly, as the proprietor of the dogs
-was still snoring, and if they lost no time they might get a good deal
-in advance both of him and the conjuror, who was talking in his sleep,
-and from what he could be heard to say, appeared to be balancing a
-donkey in his dreams.  She started from her bed without delay, and
-roused the old man with so much expedition that they were both ready as
-soon as Short himself, to that gentleman's unspeakable gratification
-and relief.
+against her fatigue; and she soon forgot it in sleep.
+
+Very early next morning, Short fulfilled his promise, and knocking
+softly at her door, entreated that she would get up directly, as the
+proprietor of the dogs was still snoring, and if they lost no time they
+might get a good deal in advance both of him and the conjuror, who was
+talking in his sleep, and from what he could be heard to say, appeared
+to be balancing a donkey in his dreams.  She started from her bed
+without delay, and roused the old man with so much expedition that they
+were both ready as soon as Short himself, to that gentleman's
+unspeakable gratification and relief.
 
 After a very unceremonious and scrambling breakfast, of which the
 staple commodities were bacon and bread, and beer, they took leave of
@@ -6622,7 +6637,7 @@ followed.
 
 It seemed that Mr Chuckster had been standing with his hands in his
 pockets looking carelessly at the pony, and occasionally insulting him
-with such admonitions as 'Stand still,'--'Be quiet,'--'Wo-a-a,' and the
+with such admonitions as 'Stand still,'--'Be quiet,'--'Woa-a-a,' and the
 like, which by a pony of spirit cannot be borne.  Consequently, the
 pony being deterred by no considerations of duty or obedience, and not
 having before him the slightest fear of the human eye, had at length
@@ -6782,15 +6797,16 @@ Daniel Quilp walked in with Richard Swiveller at his heels.
 
 'Who said he was to have six pound a year?' said Quilp, looking sharply
 round.  'Did the old man say it, or did little Nell say it?  And what's
-he to have it for, and where are they, eh!'  The good woman was so much
-alarmed by the sudden apparition of this unknown piece of ugliness,
-that she hastily caught the baby from its cradle and retreated into the
-furthest corner of the room; while little Jacob, sitting upon his stool
-with his hands on his knees, looked full at him in a species of
-fascination, roaring lustily all the time.  Richard Swiveller took an
-easy observation of the family over Mr Quilp's head, and Quilp himself,
-with his hands in his pockets, smiled in an exquisite enjoyment of the
-commotion he occasioned.
+he to have it for, and where are they, eh!'
+
+The good woman was so much alarmed by the sudden apparition of this
+unknown piece of ugliness, that she hastily caught the baby from its
+cradle and retreated into the furthest corner of the room; while little
+Jacob, sitting upon his stool with his hands on his knees, looked full
+at him in a species of fascination, roaring lustily all the time.
+Richard Swiveller took an easy observation of the family over Mr Quilp's
+head, and Quilp himself, with his hands in his pockets, smiled in an
+exquisite enjoyment of the commotion he occasioned.
 
 'Don't be frightened, mistress,' said Quilp, after a pause.  'Your son
 knows me; I don't eat babies; I don't like 'em.  It will be as well to
@@ -6972,10 +6988,11 @@ you.  It shall be done.  Mind my words, it shall be done.'
 
 'There's plenty of time,' rejoined the dwarf, 'and it shall be done.
 We'll sit down and talk it over again all the way through.  Fill your
-glass while I'm gone.  I shall be back directly--directly.'  With these
-hasty words, Daniel Quilp withdrew into a dismantled skittle-ground
-behind the public-house, and, throwing himself upon the ground actually
-screamed and rolled about in uncontrollable delight.
+glass while I'm gone.  I shall be back directly--directly.'
+
+With these hasty words, Daniel Quilp withdrew into a dismantled skittle-
+ground behind the public-house, and, throwing himself upon the ground
+actually screamed and rolled about in uncontrollable delight.
 
 'Here's sport!' he cried, 'sport ready to my hand, all invented and
 arranged, and only to be enjoyed.  It was this shallow-pated fellow who
@@ -7050,7 +7067,7 @@ Kit inwardly resolved that he would never tempt a carrier any more,
 save with an empty box; and having formed this Christian determination,
 he turned his thoughts to the second question.
 
-'YOU know you must keep up your spirits, mother, and not be lonesome
+'_You_ know you must keep up your spirits, mother, and not be lonesome
 because I'm not at home.  I shall very often be able to look in when I
 come into town I dare say, and I shall send you a letter sometimes, and
 when the quarter comes round, I can get a holiday of course; and then
@@ -7153,8 +7170,9 @@ princesses tied up to pegs by the hair of their heads, and dragons
 bursting out from behind gates, and other incidents of the like nature,
 common in story-books to youths of low degree on their first visit to
 strange houses, the door was gently opened, and a little servant-girl,
-very tidy, modest, and demure, but very pretty too, appeared.  'I
-suppose you're Christopher, sir,' said the servant-girl.
+very tidy, modest, and demure, but very pretty too, appeared.
+
+'I suppose you're Christopher, sir,' said the servant-girl.
 
 Kit got off the box, and said yes, he was.
 
@@ -7806,9 +7824,10 @@ he'll be there to-morrow.'
 
 'Not very.  They said he was wandering in his head yesterday, dear boy,
 and so they said the day before.  But that's a part of that kind of
-disorder; it's not a bad sign--not at all a bad sign.' The child was
-silent.  He walked to the door, and looked wistfully out.  The shadows
-of night were gathering, and all was still.
+disorder; it's not a bad sign--not at all a bad sign.'
+
+The child was silent.  He walked to the door, and looked wistfully out.
+The shadows of night were gathering, and all was still.
 
 'If he could lean upon anybody's arm, he would come to me, I know,' he
 said, returning into the room.  'He always came into the garden to say
@@ -8113,9 +8132,11 @@ neck, crying out that he was his dear kind friend.
 schoolmaster.
 
 'Who is that?' said the boy, seeing Nell.  'I am afraid to kiss her,
-lest I should make her ill.  Ask her to shake hands with me.'  The
-sobbing child came closer up, and took the little languid hand in hers.
-Releasing his again after a time, the sick boy laid him gently down.
+lest I should make her ill.  Ask her to shake hands with me.'
+
+The sobbing child came closer up, and took the little languid hand in
+hers. Releasing his again after a time, the sick boy laid him gently
+down.
 
 'You remember the garden, Harry,' whispered the schoolmaster, anxious
 to rouse him, for a dulness seemed gathering upon the child, 'and how
@@ -8515,7 +8536,7 @@ caravan to the other.
 'There, child,' she said, 'read that.'
 
 Nell walked down it, and read aloud, in enormous black letters, the
-inscription, 'Jarley's WAX-WORK.'
+inscription, 'JARLEY'S WAX-WORK.'
 
 'Read it again,' said the lady, complacently.
 
@@ -8540,7 +8561,7 @@ on popular melodies, as 'Believe me if all Jarley's wax-work so
 rare'--'I saw thy show in youthful prime'--'Over the water to Jarley;'
 while, to consult all tastes, others were composed with a view to the
 lighter and more facetious spirits, as a parody on the favourite air of
-'If I had a donkey,' beginning
+'If I had a donkey,' beginning,
 
   If I know'd a donkey wot wouldn't go
   To see Mrs JARLEY'S wax-work show,
@@ -8780,7 +8801,7 @@ from its niche and was casting a backward glance at its old house,
 'It's a dreadful heavy load, Sir,' the boy pleaded.  'I've come on very
 fast, considering.'
 
-'YOU have come fast, considering!' retorted Quilp; 'you creep, you dog,
+'_You_ have come fast, considering!' retorted Quilp; 'you creep, you dog,
 you crawl, you measure distance like a worm.  There are the chimes now,
 half-past twelve.'
 
@@ -9692,9 +9713,7 @@ looking on.
 
 The door was partly open.  Not knowing what she meant to do, but
 meaning to preserve him or be killed herself, she staggered forward and
-looked in.
-
-What sight was that which met her view!
+looked in. What sight was that which met her view!
 
 The bed had not been lain on, but was smooth and empty.  And at a table
 sat the old man himself; the only living creature there; his white face
@@ -10212,8 +10231,10 @@ sister, why do you turn away your face?'
 Nell could not help following at a little distance.  They went to the
 house of an old nurse, where the elder sister had engaged a bed-room
 for the child.  'I shall come to you early every morning,' she said,
-'and we can be together all the day.-'-'Why not at night-time too?
-Dear sister, would they be angry with you for that?'
+'and we can be together all the day.'
+
+'Why not at night-time too? Dear sister, would they be angry with you
+for that?'
 
 Why were the eyes of little Nell wet, that night, with tears like those
 of the two sisters?  Why did she bear a grateful heart because they had
@@ -10442,7 +10463,7 @@ called an angel.
 
 'What do you taunt me, after three hours' talk last night, with going
 to keep a clerk for?' repeated Mr Brass, grinning again with the pen in
-his mouth, like some nobleman's or gentleman's crest.  Is it my fault?'
+his mouth, like some nobleman's or gentleman's crest.  'Is it my fault?'
 
 'All I know is,' said Miss Sally, smiling drily, for she delighted in
 nothing so much as irritating her brother, 'that if every one of your
@@ -11166,9 +11187,9 @@ soles and blunt toes, to hold possession of their place by main force.
 'I can't see anything but the curtain of the bed,' said Brass, applying
 his eye to the keyhole of the door.  'Is he a strong man, Mr Richard?'
 
-Very,' answered Dick.
+'Very,' answered Dick.
 
-It would be an extremely unpleasant circumstance if he was to bounce
+'It would be an extremely unpleasant circumstance if he was to bounce
 out suddenly,' said Brass.  'Keep the stairs clear.  I should be more
 than a match for him, of course, but I'm the master of the house, and
 the laws of hospitality must be respected.--Hallo there!  Hallo, hallo!'
@@ -11298,7 +11319,7 @@ Dick nodded.  The rum was amazing.
 
 The single gentleman, perhaps because he had met with such things in
 his travels, or perhaps because he WAS a single gentleman, evinced no
-surprise, but merely inquired 'Wife or Sister?'--'Sister,' said
+surprise, but merely inquired 'Wife or sister?'--'Sister,' said
 Dick.--'So much the better,' said the single gentleman, 'he can get rid
 of her when he likes.'
 
@@ -11405,9 +11426,11 @@ familiar and confiding kind, purporting to have been addressed by the
 single gentleman to himself, and to form the staple of their ordinary
 discourse, neither Mr Brass nor Miss Sally for a moment questioned the
 extent of his influence, but accorded to him their fullest and most
-unqualified belief.  But quite apart from, and independent of, this
-source of popularity, Mr Swiveller had another, which promised to be
-equally enduring, and to lighten his position considerably.
+unqualified belief.
+
+But quite apart from, and independent of, this source of popularity, Mr
+Swiveller had another, which promised to be equally enduring, and to
+lighten his position considerably.
 
 He found favour in the eyes of Miss Sally Brass.  Let not the light
 scorners of female fascination erect their ears to listen to a new tale
@@ -11448,7 +11471,7 @@ held to be the consequence of bad nursing, so, if in a mind so
 beautiful any moral twist or handiness could be found, Miss Sally
 Brass's nurse was alone to blame.
 
-It was on this lady, then, that Mr Swiveller burst in full freshness as
+It was upon this lady, then, that Mr Swiveller burst in full freshness as
 something new and hitherto undreamed of, lighting up the office with
 scraps of song and merriment, conjuring with inkstands and boxes of
 wafers, catching three oranges in one hand, balancing stools upon his
@@ -11535,11 +11558,9 @@ of fire.  Everything was locked up; the coal-cellar, the candle-box,
 the salt-box, the meat-safe, were all padlocked.  There was nothing
 that a beetle could have lunched upon.  The pinched and meagre aspect
 of the place would have killed a chameleon.  He would have known, at
-the first mouthful, that the air was not eatable, and must have given
-up the ghost in despair.
-
-The small servant stood with humility in presence of Miss Sally, and
-hung her head.
+the first mouthful, that the air was not eatable, and must have given up
+the ghost in despair. The small servant stood with humility in presence
+of Miss Sally, and hung her head.
 
 'Are you there?' said Miss Sally.
 
@@ -11675,9 +11696,7 @@ sinister intention.  'Is that no harm?'
 
 The lawyer stopped short in his invective, and listening for a moment,
 and recognising the well-known voice, rested his head upon his hand,
-raised his eyes to the ceiling, and muttered faintly,
-
-'There's another!'
+raised his eyes to the ceiling, and muttered faintly, 'There's another!'
 
 Up went the single gentleman's window directly.
 
@@ -11737,9 +11756,9 @@ summoned the men up stairs.
 exhibitor--a little fat man--prepared to obey the summons.  'I want to
 talk to you.  Come both of you!'
 
-Come, Tommy,' said the little man.
+'Come, Tommy,' said the little man.
 
-I an't a talker,' replied the other.  'Tell him so.  What should I go
+'I an't a talker,' replied the other.  'Tell him so.  What should I go
 and talk for?'
 
 'Don't you see the gentleman's got a bottle and glass up there?'
@@ -12714,7 +12733,7 @@ extremely on one side, and his hair a long way beyond it, came
 swaggering up the walk.
 
 'Hope I see you well sir,' returned that gentleman.  'Hope I see YOU
-well, ma'am.  Charming box' this, sir.  Delicious country to be sure.'
+well, ma'am.  Charming box this, sir.  Delicious country to be sure.'
 
 'You want to take Kit back with you, I find?' observed Mr Garland.
 
@@ -13407,8 +13426,7 @@ down to the last one in the box, be there many or few.  Remember that!'
 'I'm witness,' returned Isaac.  'I'll see fair between you.'
 
 'I have passed my word,' said Jowl with feigned reluctance, 'and I'll
-keep it.  When does this match come off?  I wish it was over.--
-To-night?'
+keep it.  When does this match come off?  I wish it was over.--To-night?'
 
 'I must have the money first,' said the old man; 'and that I'll have
 to-morrow--'
@@ -13419,11 +13437,13 @@ to-morrow--'
 man.  'It must be softly done.  No, to-morrow night.'
 
 'Then to-morrow be it,' said Jowl.  'A drop of comfort here.  Luck to
-the best man!  Fill!' The gipsy produced three tin cups, and filled
-them to the brim with brandy.  The old man turned aside and muttered to
-himself before he drank.  Her own name struck upon the listener's ear,
-coupled with some wish so fervent, that he seemed to breathe it in an
-agony of supplication.
+the best man!  Fill!'
+
+The gipsy produced three tin cups, and filled them to the brim with
+brandy.  The old man turned aside and muttered to himself before he
+drank.  Her own name struck upon the listener's ear, coupled with some
+wish so fervent, that he seemed to breathe it in an agony of
+supplication.
 
 'God be merciful to us!' cried the child within herself, 'and help us
 in this trying hour!  What shall I do to save him!'
@@ -14465,10 +14485,11 @@ did.
 'You may then,' said the doctor, rising gravely, 'give her a glass of
 hot mulled port wine, if she likes wine--'
 
-'And a toast, Sir?' suggested the landlady.  'Ay,' said the doctor, in
-the tone of a man who makes a dignified concession.  'And a toast--of
-bread.  But be very particular to make it of bread, if you please,
-ma'am.'
+'And a toast, Sir?' suggested the landlady.
+
+'Ay,' said the doctor, in the tone of a man who makes a dignified
+concession.  'And a toast--of bread.  But be very particular to make it
+of bread, if you please, ma'am.'
 
 With which parting injunction, slowly and portentously delivered, the
 doctor departed, leaving the whole house in admiration of that wisdom
@@ -14515,8 +14536,9 @@ truth.'
 
 'Why then, I do believe you are in earnest,' rejoined the landlady,
 with ready good-humour, 'and I'm very sorry I have teazed you.  But
-curiosity you know is the curse of our sex, and that's the fact.' The
-landlord scratched his head, as if he thought the curse sometimes
+curiosity you know is the curse of our sex, and that's the fact.'
+
+The landlord scratched his head, as if he thought the curse sometimes
 involved the other sex likewise; but he was prevented from making any
 remark to that effect, if he had it in contemplation to do so, by the
 schoolmaster's rejoinder.
@@ -14736,7 +14758,7 @@ fallen leaves, which strewed the path and made her footsteps noiseless,
 seemed an invasion of its silence.  It was a very aged, ghostly place;
 the church had been built many hundreds of years ago, and had once had
 a convent or monastery attached; for arches in ruins, remains of oriel
-windows, and fragments of blackened walls, were yet standing-, while
+windows, and fragments of blackened walls, were yet standing; while
 other portions of the old building, which had crumbled away and fallen
 down, were mingled with the churchyard earth and overgrown with grass,
 as if they too claimed a burying-place and sought to mix their ashes
@@ -15561,7 +15583,7 @@ say crooked?'
 'Legs crooked,' said Brass, writing as he spoke.  'Large head, short
 body, legs crooked--'
 
-Very crooked,' suggested Mrs Jiniwin.
+'Very crooked,' suggested Mrs Jiniwin.
 
 'We'll not say very crooked, ma'am,' said Brass piously.  'Let us not
 bear hard upon the weaknesses of the deceased.  He is gone, ma'am, to
@@ -15912,8 +15934,10 @@ and, through him, yours, eh?'
 brought together.'
 
 'Have been!' cried the dwarf, looking suspiciously at his companion.
-'Through whose means?' 'Through mine,' said Dick, slightly confused.
-'Didn't I mention it to you the last time you called over yonder?'
+'Through whose means?'
+
+'Through mine,' said Dick, slightly confused. 'Didn't I mention it to
+you the last time you called over yonder?'
 
 'You know you didn't,' returned the dwarf.
 
@@ -16313,7 +16337,7 @@ them as they sat and watched.
 CHAPTER 52
 
 After a long time, the schoolmaster appeared at the wicket-gate of the
-churchyard, and hurried towards them, Tingling in his hand, as he came
+churchyard, and hurried towards them, tingling in his hand, as he came
 along, a bundle of rusty keys.  He was quite breathless with pleasure
 and haste when he reached the porch, and at first could only point
 towards the old building which the child had been contemplating so
@@ -16527,8 +16551,9 @@ come to share his fortunes.  He loved the child as though she were his
 own.
 
 'Well, well,' said the clergyman.  'Let it be as you desire.  She is
-very young.' 'Old in adversity and trial, sir,' replied the
-schoolmaster.
+very young.'
+
+'Old in adversity and trial, sir,' replied the schoolmaster.
 
 'God help her.  Let her rest, and forget them,' said the old gentleman.
 'But an old church is a dull and gloomy place for one so young as you,
@@ -16632,7 +16657,9 @@ by a great many nods and smiles.  Indeed, his approbation of the boys
 was by no means so scrupulously disguised as he had led the
 schoolmaster to suppose, inasmuch as it broke out in sundry loud
 whispers and confidential remarks which were perfectly audible to them
-every one.  'This first boy, schoolmaster,' said the bachelor, 'is John
+every one.
+
+'This first boy, schoolmaster,' said the bachelor, 'is John
 Owen; a lad of good parts, sir, and frank, honest temper; but too
 thoughtless, too playful, too light-headed by far.  That boy, my good
 sir, would break his neck with pleasure, and deprive his parents of
@@ -16731,7 +16758,7 @@ morrow.
 
 'Ay surely,' returned the old man.  'I'm thankful to say, much better.'
 
-'YOU will be quite well soon.'
+'_You_ will be quite well soon.'
 
 'With Heaven's leave, and a little patience.  But come in, come in!'
 The old man limped on before, and warning her of the downward step,
@@ -17197,9 +17224,10 @@ said, as he prepared to limp away.
 
 'What?' asked old David.
 
-'He's very deaf, poor fellow!' cried the sexton.  'Good-bye!' 'Ah!'
-said old David, looking after him.  'He's failing very fast.  He ages
-every day.'
+'He's very deaf, poor fellow!' cried the sexton.  'Good-bye!'
+
+'Ah!' said old David, looking after him.  'He's failing very fast.
+He ages every day.'
 
 And so they parted; each persuaded that the other had less life in him
 than himself; and both greatly consoled and comforted by the little
@@ -17248,7 +17276,7 @@ There was a long pause.
 'What was it?' said the schoolmaster, tenderly.  'Come.  Tell me what
 it was.'
 
-'I rather grieve--I do rather grieve to think,' said the child,
+'I rather grieve--I _do_ rather grieve to think,' said the child,
 bursting into tears, 'that those who die about us, are so soon
 forgotten.'
 
@@ -17295,11 +17323,13 @@ The child shook her head and smiled.
 'She needs rest,' said the old man, patting her cheek; 'too pale--too
 pale.  She is not like what she was.'
 
-When?' asked the child.
+'When?' asked the child.
 
 'Ha!' said the old man, 'to be sure--when?  How many weeks ago?  Could
 I count them on my fingers?  Let them rest though; they're better
-gone.' 'Much better, dear,' replied the child.  'We will forget them;
+gone.'
+
+'Much better, dear,' replied the child.  'We will forget them;
 or, if we ever call them to mind, it shall be only as some uneasy dream
 that has passed away.'
 
@@ -17498,7 +17528,7 @@ you say yes, Nell?'
 Still the drooping head and hidden face, and the child quite
 silent--save for her sobs.
 
-'After a time,' pursued the boy, trying to draw away her hand, the kind
+'After a time,' pursued the boy, trying to draw away her hand, 'the kind
 angels will be glad to think that you are not among them, and that you
 stayed here to be with us.  Willy went away, to join them; but if he
 had known how I should miss him in our little bed at night, he never
@@ -17648,8 +17678,8 @@ easy manner.
 which so well became him.  'I should think so.  Why, my good feller, do
 you know what o'clock it is--half-past nine a.m. in the morning?'
 
-'Won't you come in?' said Dick.  'All alone.  Swiveller solus.  'Tis
-now the witching--'
+'Won't you come in?' said Dick.  'All alone.  Swiveller solus.  "'Tis
+now the witching--"'
 
 '"Hour of night!"'
 
@@ -17673,7 +17703,7 @@ Mr Swiveller expressed his acknowledgments; and it appearing on further
 conversation that he was in good health, and that Mr Chuckster was in
 the like enviable condition, both gentlemen, in compliance with a
 solemn custom of the ancient Brotherhood to which they belonged, joined
-in a fragment of the popular duet of 'All's Well,' with a long shake'
+in a fragment of the popular duet of 'All's Well,' with a long shake
 at the end.
 
 'And what's the news?' said Richard.
@@ -17823,9 +17853,10 @@ time, and in a very smiling state, as though their late plots and
 designs had tranquillised their minds and shed a light upon their
 toilsome way.  In the present instance, they seemed particularly gay;
 Miss Sally's aspect being of a most oily kind, and Mr Brass rubbing his
-hands in an exceedingly jocose and light-hearted manner.  'Well, Mr
-Richard,' said Brass.  'How are we this morning?  Are we pretty fresh
-and cheerful sir--eh, Mr Richard?'
+hands in an exceedingly jocose and light-hearted manner.
+
+'Well, Mr Richard,' said Brass.  'How are we this morning?  Are we
+pretty fresh and cheerful sir--eh, Mr Richard?'
 
 'Pretty well, sir,' replied Dick.
 
@@ -17843,7 +17874,7 @@ sweetness of existence.  Anybody been here, sir?'
 
 'Only my friend'--replied Dick.  'May we ne'er want a--'
 
-'Friend,' Brass chimed in quickly, 'or a bottle to give him.'  Ha ha!
+'Friend,' Brass chimed in quickly, 'or a bottle to give him.  Ha ha!
 That's the way the song runs, isn't it?  A very good song, Mr Richard,
 very good.  I like the sentiment of it.  Ha ha!  Your friend's the
 young man from Witherden's office I think--yes--May we ne'er want a--
@@ -17852,13 +17883,13 @@ Nobody else at all, been, Mr Richard?'
 'Only somebody to the lodger,' replied Mr Swiveller.
 
 'Oh indeed!' cried Brass.  'Somebody to the lodger eh?  Ha ha!  May we
-ne'er want a friend, or a--  Somebody to the lodger, eh, Mr Richard?'
+ne'er want a friend, or a----  Somebody to the lodger, eh, Mr Richard?'
 
 'Yes,' said Dick, a little disconcerted by the excessive buoyancy of
 spirits which his employer displayed.  'With him now.'
 
 'With him now!' cried Brass; 'Ha ha!  There let 'em be, merry and free,
-toor rul rol le.  Eh, Mr Richard?  Ha ha!'
+toor rul lol le.  Eh, Mr Richard?  Ha ha!'
 
 'Oh certainly,' replied Dick.
 
@@ -17938,7 +17969,7 @@ sort of pensive abstraction, 'is, that although we cannot turn away the
 wind, we can soften it; we can temper it, if I may say so, to the shorn
 lambs.'
 
-'Shorn indeed!' thought Kit.  'Pretty close!' But he didn't say SO.
+'Shorn indeed!' thought Kit.  'Pretty close!' But he didn't say _so_.
 
 'On that occasion, Kit,' said Mr Brass, 'on that occasion that I have
 just alluded to, I had a hard battle with Mr Quilp (for Mr Quilp is a
@@ -18034,7 +18065,7 @@ the bottom rail of his stool, so as to get a view of the street over
 the top of the window-blind, would take an observation of the visitors.
 
 'The old gentleman again!' he would exclaim, 'a very prepossessing old
-gentleman, Mr Richard--charming countenance sir--extremely
+gentleman, Mr Richard--charming countenance, sir--extremely
 calm--benevolence in every feature, sir.  He quite realises my idea of
 King Lear, as he appeared when in possession of his kingdom, Mr
 Richard--the same good humour, the same white hair and partial
@@ -18102,7 +18133,7 @@ heated condition, violently scratching out nothing with half a penknife.
 Whenever Kit came alone, and without the chaise, it always happened
 that Sampson Brass was reminded of some mission, calling Mr Swiveller,
 if not to Peckham Rye again, at all events to some pretty distant place
-from Which he could not be expected to return for two or three hours,
+from which he could not be expected to return for two or three hours,
 or in all probability a much longer period, as that gentleman was not,
 to say the truth, renowned for using great expedition on such
 occasions, but rather for protracting and spinning out the time to the
@@ -18176,8 +18207,9 @@ you are!  What do you mean by it?'
 'It ain't my fault.'
 
 'Could you eat any bread and meat?' said Dick, taking down his hat.
-'Yes?  Ah! I thought so.  Did you ever taste beer?' 'I had a sip of it
-once,' said the small servant.
+'Yes?  Ah! I thought so.  Did you ever taste beer?'
+
+'I had a sip of it once,' said the small servant.
 
 'Here's a state of things!' cried Mr Swiveller, raising his eyes to the
 ceiling.  'She never tasted it--it can't be tasted in a sip!  Why, how
@@ -18968,7 +19000,7 @@ what you do.  How can I meet the kindest friends that ever human
 creature had, with this dreadful charge upon me!'
 
 Mr Brass rejoined that it would have been well for the prisoner if he
-had thought of that, before, and was about to make some other gloomy
+had thought of that before and was about to make some other gloomy
 observations when the voice of the single gentleman was heard,
 demanding from above-stairs what was the matter, and what was the cause
 of all that noise and hurry.  Kit made an involuntary start towards the
@@ -19042,9 +19074,10 @@ with suppressed laughter, he looked puffed and bloated into twice his
 usual breadth.  Mr Brass, on recognising him, immediately stopped the
 coach.  As it came to a halt directly opposite to where he stood, the
 dwarf pulled off his hat, and saluted the party with a hideous and
-grotesque politeness.  'Aha!' he cried.  'Where now, Brass? where now?
-Sally with you too?  Sweet Sally!  And Dick?  Pleasant Dick!  And Kit!
-Honest Kit!'
+grotesque politeness.
+
+'Aha!' he cried.  'Where now, Brass? where now? Sally with you too?
+Sweet Sally!  And Dick?  Pleasant Dick!  And Kit! Honest Kit!'
 
 'He's extremely cheerful!' said Brass to the coachman.  'Very much so!
 Ah, sir--a sad business!  Never believe in honesty any more, sir.'
@@ -19145,7 +19178,9 @@ have the honour of an introduction to two such gentlemen, although the
 occasion is a most painful one.  One of you gentlemen has a servant
 called Kit?'
 
-'Both,' replied the notary.  'Two Kits?' said Brass smiling.  'Dear me!'
+'Both,' replied the notary.
+
+'Two Kits?' said Brass smiling.  'Dear me!'
 
 'One Kit, sir,' returned Mr Witherden angrily, 'who is employed by both
 gentlemen.  What of him?'
@@ -19350,7 +19385,9 @@ dread of being recalled to prison; not that prison, but one which was
 in itself a dim idea--not of a place, but of a care and sorrow: of
 something oppressive and always present, and yet impossible to define.
 At last, the morning dawned, and there was the jail itself--cold,
-black, and dreary, and very real indeed.  He was left to himself,
+black, and dreary, and very real indeed.
+
+He was left to himself,
 however, and there was comfort in that.  He had liberty to walk in a
 small paved yard at a certain hour, and learnt from the turnkey, who
 came to unlock his cell and show him where to wash, that there was a
@@ -19608,7 +19645,9 @@ sir--?'
 
 'Judas!' cried Brass.  'He has such extraordinary spirits!  His humour
 is so extremely playful!  Judas!  Oh yes--dear me, how very good!  Ha
-ha ha!' All this time, Sampson was rubbing his hands, and staring, with
+ha ha!'
+
+All this time, Sampson was rubbing his hands, and staring, with
 ludicrous surprise and dismay, at a great, goggle-eyed, blunt-nosed
 figure-head of some old ship, which was reared up against the wall in a
 corner near the stove, looking like a goblin or hideous idol whom the
@@ -19708,7 +19747,9 @@ combine?  Do I know anything about your combinings?'
 
 'If you so wink and nod at me,' said the dwarf, looking about him as if
 for his poker, 'I'll spoil the expression of your monkey's face, I
-will.' 'Don't put yourself out of the way I beg, sir,' rejoined Brass,
+will.'
+
+'Don't put yourself out of the way I beg, sir,' rejoined Brass,
 checking himself with great alacrity.  'You're quite right, sir, quite
 right.  I shouldn't have mentioned the subject, sir.  It's much better
 not to.  You're quite right, sir.  Let us change it, if you please.
@@ -19757,7 +19798,9 @@ coughing, in the midst of which he was still heard to declare, with the
 constancy of a martyr, that it was 'beautiful indeed!'  While he was
 yet in unspeakable agonies, the dwarf renewed their conversation.
 
-'The lodger,' said Quilp, '--what about him?' 'He is still, sir,'
+'The lodger,' said Quilp, '--what about him?'
+
+'He is still, sir,'
 returned Brass, with intervals of coughing, 'stopping with the Garland
 family.  He has only been home once, Sir, since the day of the
 examination of that culprit.  He informed Mr Richard, sir, that he
@@ -19786,7 +19829,7 @@ retrenchment for you at once.'
 'Have you more than one clerk, you parrot, that you ask the question?
 Yes.'
 
-'Upon my word, Sir,' said Brass, 'I wasn't prepared for this-'
+'Upon my word, Sir,' said Brass, 'I wasn't prepared for this--'
 
 'How could you be?' sneered the dwarf, 'when I wasn't?  How often am I
 to tell you that I brought him to you that I might always have my eye
@@ -19928,7 +19971,7 @@ The professional gentleman who had given Kit the consolatory piece of
 information relative to the settlement of his trifle of business at the
 Old Bailey, and the probability of its being very soon disposed of,
 turned out to be quite correct in his prognostications.  In eight days'
-time, the sessions commenced.  In one day afterwards, the Grand jury
+time, the sessions commenced.  In one day afterwards, the Grand Jury
 found a True Bill against Christopher Nubbles for felony; and in two
 days from that finding, the aforesaid Christopher Nubbles was called
 upon to plead Guilty or Not Guilty to an Indictment for that he the
@@ -20114,8 +20157,9 @@ five-pound note, have you sir?'
 'No,' returned Dick, shortly.
 
 'Oh!' said Brass, 'here's the very sum.  That saves trouble.  You're
-very welcome I'm sure.--Mr Richard, sir--' Dick, who had by this time
-reached the door, turned round.
+very welcome I'm sure.--Mr Richard, sir--'
+
+Dick, who had by this time reached the door, turned round.
 
 'You needn't,' said Brass, 'trouble yourself to come back any more,
 Sir.'
@@ -20367,7 +20411,7 @@ consistency.  And so Dick felt.
 'Why, you see,' returned the Marchioness, 'when you was gone, I hadn't
 any friend at all, because the lodger he never come back, and I didn't
 know where either him or you was to be found, you know.  But one
-morning, when I was-'
+morning, when I was--'
 
 'Was near a keyhole?' suggested Mr Swiveller, observing that she
 faltered.
@@ -20749,7 +20793,7 @@ under circumstances very like the present, and, for anything he knew to
 the contrary, by guides very like the Marchioness.  His regard for Kit,
 however, overcame every other consideration.  So, entrusting Whisker to
 the charge of a man who was lingering hard by in expectation of the
-Job, he suffered his companion to take his hand, and to lead him up the
+job, he suffered his companion to take his hand, and to lead him up the
 dark and narrow stairs.
 
 He was not a little surprised to find himself conducted into a
@@ -20933,7 +20977,7 @@ could help it, would be monstrous.  You say with us, no doubt, if
 somebody must escape, let it be any one but he.'
 
 'Yes,' returned Dick, 'certainly.  That is if somebody must--but upon
-my word, I'm unwilling that Anybody should.  Since laws were made for
+my word, I'm unwilling that anybody should.  Since laws were made for
 every degree, to curb vice in others as well as in me--and so forth
 you know--doesn't it strike you in that light?'
 
@@ -21045,13 +21089,14 @@ I can take any instructions, or give you any advice.'
 
 'As there are other parties interested besides myself,' said the single
 gentleman, rising and opening the door of an inner room, 'we had better
-confer together.  Miss Brass is here, gentlemen.' Mr Garland and the
-Notary walked in, looking very grave; and, drawing up two chairs, one
-on each side of the single gentleman, formed a kind of fence round the
-gentle Sarah, and penned her into a corner.  Her brother Sampson under
-such circumstances would certainly have evinced some confusion or
-anxiety, but she--all composure--pulled out the tin box, and calmly
-took a pinch of snuff.
+confer together.  Miss Brass is here, gentlemen.'
+
+Mr Garland and the Notary walked in, looking very grave; and, drawing up
+two chairs, one on each side of the single gentleman, formed a kind of
+fence round the gentle Sarah, and penned her into a corner.  Her brother
+Sampson under such circumstances would certainly have evinced some
+confusion or anxiety, but she--all composure--pulled out the tin box,
+and calmly took a pinch of snuff.
 
 'Miss Brass,' said the Notary, taking the word at this crisis, 'we
 professional people understand each other, and, when we choose, can say
@@ -21222,7 +21267,7 @@ propose it.  I can't trust him.  In one of his howling, raving, blazing
 humours, I believe he'd let it out, if it was murder, and never think
 of himself so long as he could terrify me.  Now,' said Brass, picking
 up his hat again and replacing the shade over his eye, and actually
-crouching down, in the excess of his servility, 'What does all this
+crouching down, in the excess of his servility, 'what does all this
 lead to?--what should you say it led me to, gentlemen?--could you guess
 at all near the mark?'
 
@@ -21267,7 +21312,7 @@ with a bitter sneer, 'this is my brother, is it!  This is my brother,
 that I have worked and toiled for, and believed to have had something
 of the man in him!'
 
-'Sarah, my dear,' returned Sampson, rubbing his hands feebly; you
+'Sarah, my dear,' returned Sampson, rubbing his hands feebly; 'you
 disturb our friends.  Besides you--you're disappointed, Sarah, and, not
 knowing what you say, expose yourself.'
 
@@ -21454,15 +21499,16 @@ its old place.  The face, horribly seared by the frequent application
 of the red-hot poker, and further ornamented by the insertion, in the
 tip of the nose, of a tenpenny nail, yet smiled blandly in its less
 lacerated parts, and seemed, like a sturdy martyr, to provoke its
-tormentor to the commission of new outrages and insults.  The day, in
-the highest and brightest quarters of the town, was damp, dark, cold
-and gloomy.  In that low and marshy spot, the fog filled every nook and
-corner with a thick dense cloud.  Every object was obscure at one or
-two yards' distance.  The warning lights and fires upon the river were
-powerless beneath this pall, and, but for a raw and piercing chillness
-in the air, and now and then the cry of some bewildered boatman as he
-rested on his oars and tried to make out where he was, the river itself
-might have been miles away.
+tormentor to the commission of new outrages and insults.
+
+The day, in the highest and brightest quarters of the town, was damp,
+dark, cold and gloomy.  In that low and marshy spot, the fog filled
+every nook and corner with a thick dense cloud.  Every object was
+obscure at one or two yards' distance.  The warning lights and fires
+upon the river were powerless beneath this pall, and, but for a raw and
+piercing chillness in the air, and now and then the cry of some
+bewildered boatman as he rested on his oars and tried to make out where
+he was, the river itself might have been miles away.
 
 The mist, though sluggish and slow to move, was of a keenly searching
 kind.  No muffling up in furs and broadcloth kept it out.  It seemed to
@@ -21504,8 +21550,9 @@ fingers?' said the dwarf.  'Is the dear old lady dead?'
 his wife.
 
 'Then she's alive,' said Quilp, 'and there's nothing the matter with
-her.  Go home again, you bird of evil note, go home!' 'I have brought a
-letter,' cried the meek little woman.
+her.  Go home again, you bird of evil note, go home!'
+
+'I have brought a letter,' cried the meek little woman.
 
 'Toss it in at the window here, and go your ways,' said Quilp,
 interrupting her, 'or I'll come out and scratch you.'
@@ -21704,12 +21751,13 @@ times, springs from that old dotard and his darling child--two wretched
 feeble wanderers!  I'll be their evil genius yet.  And you, sweet Kit,
 honest Kit, virtuous, innocent Kit, look to yourself.  Where I hate, I
 bite.  I hate you, my darling fellow, with good cause, and proud as you
-are to-night, I'll have my turn.  --What's that?'
+are to-night, I'll have my turn.----What's that?'
 
 A knocking at the gate he had closed.  A loud and violent knocking.
 Then, a pause; as if those who knocked had stopped to listen.  Then,
-the noise again, more clamorous and importunate than before.  'So
-soon!' said the dwarf.  'And so eager!  I am afraid I shall disappoint
+the noise again, more clamorous and importunate than before.
+
+'So soon!' said the dwarf.  'And so eager!  I am afraid I shall disappoint
 you.  It's well I'm quite prepared.  Sally, I thank you!'
 
 As he spoke, he extinguished the candle.  In his impetuous attempts to
@@ -22046,7 +22094,7 @@ before day, began to prepare for his welcome expedition.  The hurry of
 spirits consequent upon the events of yesterday, and the unexpected
 intelligence he had heard at night, had troubled his sleep through the
 long dark hours, and summoned such uneasy dreams about his pillow that
-it was rest to rise.
+it was best to rise.
 
 But, had it been the beginning of some great labour with the same end
 in view--had it been the commencement of a long journey, to be
@@ -22256,7 +22304,7 @@ their hoarse noise dying in the distance, and the stout trees cowering
 down before them.
 
 All day long, it blew without cessation.  The night was clear and
-starlight, but the wind had not fallen, and the cold was piercing.
+starlit, but the wind had not fallen, and the cold was piercing.
 Sometimes--towards the end of a long stage--Kit could not help wishing
 it were a little warmer: but when they stopped to change horses, and he
 had had a good run, and what with that, and the bustle of paying the
@@ -22474,16 +22522,17 @@ go to reach their journey's end.  It was a late hour in such by-places,
 and the people were abed; but a voice answered from an upper window,
 Ten miles.  The ten minutes that ensued appeared an hour; but at the
 end of that time, a shivering figure led out the horses they required,
-and after another brief delay they were again in motion.  It was a
-cross-country road, full, after the first three or four miles, of holes
-and cart-ruts, which, being covered by the snow, were so many pitfalls
-to the trembling horses, and obliged them to keep a footpace.  As it
-was next to impossible for men so much agitated as they were by this
-time, to sit still and move so slowly, all three got out and plodded on
-behind the carriage.  The distance seemed interminable, and the walk
-was most laborious.  As each was thinking within himself that the
-driver must have lost his way, a church bell, close at hand, struck the
-hour of midnight, and the carriage stopped.  It had moved softly
+and after another brief delay they were again in motion.
+
+It was a cross-country road, full, after the first three or four miles,
+of holes and cart-ruts, which, being covered by the snow, were so many
+pitfalls to the trembling horses, and obliged them to keep a footpace.
+As it was next to impossible for men so much agitated as they were by
+this time, to sit still and move so slowly, all three got out and
+plodded on behind the carriage.  The distance seemed interminable, and
+the walk was most laborious.  As each was thinking within himself that
+the driver must have lost his way, a church bell, close at hand, struck
+the hour of midnight, and the carriage stopped.  It had moved softly
 enough, but when it ceased to crunch the snow, the silence was as
 startling as if some great noise had been replaced by perfect stillness.
 
@@ -22577,7 +22626,9 @@ Looking up, he saw a very little creature at a neighbouring window.
 Pray speak to me, whoever that is, awake and up.'
 
 'Poor boy!' said the sexton, before Kit could answer, 'how goes it,
-darling?' 'Has my dream come true?' exclaimed the child again, in a
+darling?'
+
+'Has my dream come true?' exclaimed the child again, in a
 voice so fervent that it might have thrilled to the heart of any
 listener.  'But no, that can never be!  How could it be--Oh! how could
 it!'
@@ -22731,10 +22782,11 @@ knows.  Hark!  Did she call?'
 He started up, and listened again.
 
 'Nor that?' he cried, with a triumphant smile, 'Can any body know that
-voice so well as I?  Hush!  Hush!' Motioning to him to be silent, he
-stole away into another chamber.  After a short absence (during which
-he could be heard to speak in a softened soothing tone) he returned,
-bearing in his hand a lamp.
+voice so well as I?  Hush!  Hush!'
+
+Motioning to him to be silent, he stole away into another chamber.
+After a short absence (during which he could be heard to speak in a
+softened soothing tone) he returned, bearing in his hand a lamp.
 
 'She is still asleep,' he whispered.  'You were right.  She did not
 call--unless she did so in her slumber.  She has called to me in her
@@ -22869,7 +22921,7 @@ changeless.  I would have it come and go.  That shall be in Heaven's
 good time.  We will not wake her.'
 
 'Let us not talk of her in her sleep, but as she used to be when you
-were Journeying together, far away--as she was at home, in the old
+were journeying together, far away--as she was at home, in the old
 house from which you fled together--as she was, in the old cheerful
 time,' said the schoolmaster.
 
@@ -23072,9 +23124,10 @@ guide's mother dwelt, 'how is it that the folks are nearly all in black
 to-day?  I have seen a mourning ribbon or a piece of crape on almost
 every one.'
 
-She could not tell, the woman said.  'Why, you yourself--you wear the
-colour too?' he said.  'Windows are closed that never used to be by
-day.  What does this mean?'
+She could not tell, the woman said.
+
+'Why, you yourself--you wear the colour too?' he said.  'Windows are
+closed that never used to be by day.  What does this mean?'
 
 Again the woman said she could not tell.
 
@@ -23384,7 +23437,7 @@ confidence that she had gone down to the docks in male attire, and had
 become a female sailor; others darkly whispered that she had enlisted
 as a private in the second regiment of Foot Guards, and had been seen
 in uniform, and on duty, to wit, leaning on her musket and looking out
-of a sentry-box in St james's Park, one evening.  There were many such
+of a sentry-box in St James's Park, one evening.  There were many such
 whispers as these in circulation; but the truth appears to be that,
 after the lapse of some five years (during which there is no direct
 evidence of her having been seen at all), two wretched people were more
@@ -23426,17 +23479,18 @@ his bread.  Finding, however, his English birth an insurmountable
 obstacle to his advancement in this pursuit (notwithstanding that his
 art was in high repute and favour), he assumed the name of an Italian
 image lad, with whom he had become acquainted; and afterwards tumbled
-with extraordinary success, and to overflowing audiences.  Little Mrs
-Quilp never quite forgave herself the one deceit that lay so heavy on
-her conscience, and never spoke or thought of it but with bitter tears.
-Her husband had no relations, and she was rich.  He had made no will,
-or she would probably have been poor.  Having married the first time at
-her mother's instigation, she consulted in her second choice nobody but
-herself.  It fell upon a smart young fellow enough; and as he made it a
-preliminary condition that Mrs Jiniwin should be thenceforth an
-out-pensioner, they lived together after marriage with no more than the
-average amount of quarrelling, and led a merry life upon the dead
-dwarf's money.
+with extraordinary success, and to overflowing audiences.
+
+Little Mrs Quilp never quite forgave herself the one deceit that lay so
+heavy on her conscience, and never spoke or thought of it but with
+bitter tears. Her husband had no relations, and she was rich.  He had
+made no will, or she would probably have been poor.  Having married the
+first time at her mother's instigation, she consulted in her second
+choice nobody but herself.  It fell upon a smart young fellow enough;
+and as he made it a preliminary condition that Mrs Jiniwin should be
+thenceforth an out-pensioner, they lived together after marriage with no
+more than the average amount of quarrelling, and led a merry life upon
+the dead dwarf's money.
 
 Mr and Mrs Garland, and Mr Abel, went out as usual (except that there
 was a change in their household, as will be seen presently), and in due
@@ -23656,6 +23710,8 @@ End of Project Gutenberg's The Old Curiosity Shop, by Charles Dickens
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/7/0/700/
 
+
+Produced by An Anonymous Volunteer and David Widger
 
 
 Updated editions will replace the previous one--the old editions
